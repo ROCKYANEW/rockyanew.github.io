@@ -3,7 +3,7 @@
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
-remote_theme : mmistakes/minimal-mistakes
+remote_theme : Simpleyyt/jekyll-theme-next
 
 # Site
 title: NexT
