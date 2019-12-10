@@ -10,27 +10,27 @@ markdown: kramdown
 # The title and tagline is showed on homepage
 #
 title :  Simpleyyt 
-tagline: Yitao's Blog
+tagline: RAKU's Blog
 
 gems: [jekyll-paginate]
 
 # Information about author
 #
 author :
-  name : Yitao Yao
+  name : Hyeokrok Kong
   
 # Information for contacts showed at on the footer
 #
 contact :
-  e-mail : mailto:simpleyyt@gmail.com
-  Github : https://github.com/Simpleyyt
-  WeiBo : http://www.weibo.com/u/1836017133
-  Google+ : https://plus.google.com/103860633659538888207?rel=author
+  e-mail : mailto:rockyanew@gmail.com
+  Github : https://github.com/rockyanew
+  WeiBo : ""
+  Google+ : ""
   
 # Links showed on the footer
 #
 links :
-  Yitao's Blog : http://simpleyyt.github.io/
+  RAKU's Blog : http://rockyanew.github.io/
 
 # The search engine. Only support google custom search engine.
 #
@@ -127,11 +127,11 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : duoshuo
+    provider : raku
     duoshuo :
-      short_name : simpleyyt
+      short_name : rockyanew
     disqus :
-      short_name : simpleyyt
+      short_name : rockyanew
     livefyre :
       site_id : 123
     intensedebate :
@@ -155,7 +155,7 @@ JB :
     mixpanel :
         token : '_MIXPANEL_TOKEN_'
     piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+        baseURL : '' # Piwik installation address (without protocol)
         idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper. 
