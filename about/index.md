@@ -27,6 +27,6 @@ type: about
 
 ## Who am I
 
-### 대한민국의 흔한 Software engineer...
+###### 대한민국의 흔한 Software engineer...
 하지만,
 
