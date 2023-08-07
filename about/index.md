@@ -24,9 +24,9 @@ type: about
 
 	- 2012 ~ 2015 : Musicflow App(iOS)
 	- 2016 ~ 2019 : Renesas(RL78/100GE) MICOM System - Portable Audio System
+ 	- 2020 ~ 2022 : Qualcomm & Interanl private System(Hidden) - Bluetooth Earbuds System	
+ 	- 2023(현재) : Data Analyst	
 
 ## Who am I
 
 ###### 대한민국의 흔한 Software engineer...
-하지만,
-
